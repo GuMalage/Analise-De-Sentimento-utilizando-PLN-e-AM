@@ -96,12 +96,10 @@ pip install sentence-transformers
 pip install transformers torch scikit-learn matplotlib pandas numpy
 ```
 
-###2️⃣ Execute o script ou notebook
+### 2️⃣ Execute o script ou notebook
 
 O código pode ser executado em:
 
-Google Colab
-
-Jupyter Notebook
-
-Ambiente local com Python 3
+-Google Colab
+-Jupyter Notebook
+-Ambiente local com Python 3
