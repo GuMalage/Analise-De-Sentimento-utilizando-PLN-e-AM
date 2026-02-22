@@ -16,7 +16,7 @@ Classificar textos de redes sociais em diferentes categorias de sentimento utili
 
 ---
 
-## 🧠 Pipeline Experimental
+## 🧠 Pipeline 
 
 O fluxo do experimento segue as seguintes etapas:
 
