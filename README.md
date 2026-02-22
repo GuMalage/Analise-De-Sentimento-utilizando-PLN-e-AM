@@ -94,6 +94,7 @@ Essa estratégia permite:
 pip install kagglehub[pandas-datasets]
 pip install sentence-transformers
 pip install transformers torch scikit-learn matplotlib pandas numpy
+```
 
 ###2️⃣ Execute o script ou notebook
 
