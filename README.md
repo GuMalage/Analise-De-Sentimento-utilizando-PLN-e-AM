@@ -101,5 +101,7 @@ pip install transformers torch scikit-learn matplotlib pandas numpy
 O código pode ser executado em:
 
 Google Colab
+
 Jupyter Notebook
+
 Ambiente local com Python 3
